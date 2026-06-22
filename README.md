@@ -123,11 +123,6 @@ Churn rate: ~29.7%
 > git init
 > git add .
 > git commit -m "Initial commit: churn classification project"
-> git remote add origin https://github.com/<your-username>/churn-classification.git
+> git remote add origin https://github.com/<Hima-bindhu123>/churn-classification.git
 > git push -u origin main
 > ```
-
-## Large Files (Google Drive)
-
-If models or large datasets are generated, upload to Google Drive and share link here:
-> Drive link: *(add after upload)*
