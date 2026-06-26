@@ -114,15 +114,3 @@ Churn rate: ~29.7%
 5. **Metrics** — Accuracy, Precision, Recall, F1, ROC-AUC
 6. **Visualization** — EDA plots, ROC curves, confusion matrices, feature importance
 
----
-
-## GitHub Repository
-
-> Push to GitHub with:
-> ```bash
-> git init
-> git add .
-> git commit -m "Initial commit: churn classification project"
-> git remote add origin https://github.com/<Hima-bindhu123>/churn-classification.git
-> git push -u origin main
-> ```
